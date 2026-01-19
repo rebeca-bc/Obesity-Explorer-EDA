@@ -22,8 +22,8 @@ Integrity: 0 missing values (yep, the data is perfectly clean!).
 Tools: Python (`Pandas`, `Matplotlib`, `Numpy`... for now).
 
 ## Project Files:
-- [EDAObesityReport.ipynb](./ObesityEDAReport.ipynb): The full analysis and code.
-- [EDAObesityReport.html](./ObesityEDAReport.html): A quick-look version of the results.
+- [EDAObesityEDAReport.ipynb](./ObesityEDAReport.ipynb): The full analysis and code.
+- [ObesityEDAReport.html](./ObesityEDAReport.html): A quick-look version of the results.
 - [Obesity.csv](./Obesity.csv): The raw data.
 
 ## 🌙 Extra Commentary 
