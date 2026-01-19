@@ -26,6 +26,6 @@ Tools: Python (`Pandas`, `Matplotlib`, `Numpy`... for now).
 - EDAObesityReport.html: A quick-look version of the results.
 - Obesity.csv: The raw data.
 
-🌙 Extra Commentary 
+## 🌙 Extra Commentary 
 I even looked into a Nature study (2025) that talks about how sleep deprivation (among other things like cronic stress...) messes with your "hunger hormones" (ghrelin and leptin). It’s fascinating because it suggests that some people might eat high-calorie foods simply because they are exhausted, not just by choice. If you wanna take a look i will link it for you! 
 * https://www.nature.com/articles/s41366-025-01787-5
