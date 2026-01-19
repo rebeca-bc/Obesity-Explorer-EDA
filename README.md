@@ -5,8 +5,8 @@ In this repo I wanted to explore the basic obesity levels across Latin America (
 ## 🧐 The data?
 We’ve got a mix of "who you are" and "what you do":
 
-* Sex (`Sexo`): type object. It's the gender of the individual, described as Female or Male.
-* Age (`Edad`): type float64. Participant age ranging from 14 to 61 years.
+* Sex (`Sexo`): type object. The gender of the individual, described as Female or Male.
+* Age (`Edad`): type float64. Participant age, ranging from 14 to 61 years.
 * Height (`Estatura`): type float64. Height recorded in meters.
 * Weight (`Peso`): type float64. Described like a number in kilograms, with decimal.
 * Overweight Family History (`FamiliarConSobrepeso`): type object. Family history of overweight (yes/no).
@@ -14,7 +14,7 @@ We’ve got a mix of "who you are" and "what you do":
 * Vegetable Intake (`ComeVegetales`): type float64. Frequency of veggie intake: (1) Never, (2) Sometimes, (3) Always.
 * Smoker (`Fumador`): type object. Active smoking status (yes/no).
 * Water Consumption (`ConsumoDeAgua`): type float64. Daily water intake: (1) <1L, (2) 1–2L, (3) >2L.
-* Obesity Level (`NivelDeObesidad` ): type object. Weight classification based on BMI from underweight to overwight (obesity types I, II and III).
+* Obesity Level (`NivelDeObesidad` ): type object. Weight classification based on BMI from underweight to overweight (obesity types I, II and III).
 
 ## 🛠️ The Tech Part
 Observations: 2,111 individuals.
@@ -22,7 +22,7 @@ Integrity: 0 missing values (yep, the data is perfectly clean!).
 Tools: Python (`Pandas`, `Matplotlib`, `Numpy`... for now).
 
 ## Project Files:
-- [EDAObesityEDAReport.ipynb](./ObesityEDAReport.ipynb): The full analysis and code.
+- [ObesityEDAReport.ipynb](./ObesityEDAReport.ipynb): The full analysis and code.
 - [ObesityEDAReport.html](./ObesityEDAReport.html): A quick-look version of the results.
 - [Obesity.csv](./Obesity.csv): The raw data.
 
