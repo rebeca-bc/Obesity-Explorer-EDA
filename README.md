@@ -17,9 +17,9 @@ We’ve got a mix of "who you are" and "what you do":
 * Obesity Level (`NivelDeObesidad` ): type object. Weight classification based on BMI from underweight to overweight (obesity types I, II and III).
 
 ## 🛠️ The Tech Part
-Observations: 2,111 individuals.
-Integrity: 0 missing values (yep, the data is perfectly clean!).
-Tools: Python (`Pandas`, `Matplotlib`, `Numpy`... for now).
+- Observations: 2,111 individuals.
+- Integrity: 0 missing values (yep, the data is perfectly clean!).
+- Tools: Python (`Pandas`, `Matplotlib`, `Numpy`... for now).
 
 ## Project Files:
 - [ObesityEDAReport.ipynb](./ObesityEDAReport.ipynb): The full analysis and code.
